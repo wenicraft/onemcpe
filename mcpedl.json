@@ -12,10 +12,10 @@
       "show_post_detail_title": true,
       "show_post_detail_category": true,
       "show_related_posts": true,
-      "enable_rtl_mode": true,
+      "enable_rtl_mode": false,
       "enable_exit_dialog": true,
-      "enable_app_protection": true,
-      "enable_dark_mode_as_default_theme": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
       "youtube_api_key": "AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY",
       "base64_license_key": ""
     }
