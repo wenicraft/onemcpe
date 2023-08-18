@@ -65,6 +65,33 @@
       "show_app_open_ad": true
     }
   ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "MINECRAFT PE MODS & ADDONS",
+      "image": "https://my.mcpedl.com/storage/addons/1540/images/mountable-spiders-addon_9.png"
+    },
+    {
+      "id": 2,
+      "name": "MINECRAFT PE MAPS",
+      "image": "https://api.mcpedl.com/storage/submissions/180488/images/minecraft-virus-lucky-block-skyblock-119--11971-world-update_3.png"
+    },
+    {
+      "id": 3,
+      "name": "MINECRAFT PE SERVERS",
+      "image": "https://api.mcpedl.com/storage/submissions/155941/images/charles-smp_3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Skins",
+      "image": "https://api.mcpedl.com/storage/submissions/189049/images/the-anime-waifus-addon_2.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "MINECRAFT PE TEXTURE PACKS",
+      "image": "https://static.planetminecraft.com/files/resource_media/screenshot/1908/2019-02-22-15-09-25-1550862583_lrg.png"
+    }  
+  ],
   "posts": [
     {
       "id": 1,
