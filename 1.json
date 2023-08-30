@@ -20,7 +20,7 @@
       "base64_license_key": ""
     }
   ],
-  "ads": [
+    "ads": [
     {
       "ad_status": 1,
       "main_ad": "admob",
@@ -33,9 +33,9 @@
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
-      "fan_banner_unit_id": " ",
-      "fan_interstitial_unit_id": " ",
-      "fan_native_unit_id": " ",
+      "fan_banner_unit_id": "1057512135219310_1057513991885791",
+      "fan_interstitial_unit_id": "1057512135219310_1057514105219113",
+      "fan_native_unit_id": "1057512135219310_1057514295219094",
       "startapp_app_id": "0",
       "unity_game_id": "4725055",
       "unity_banner_placement_id": "Banner_Android",
